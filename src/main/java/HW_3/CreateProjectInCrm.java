@@ -113,3 +113,4 @@ public class CreateProjectInCrm {
         driver.findElement(By.xpath("//button[contains(text(),'Сохранить и закрыть')]")).click();
     }
 }
+

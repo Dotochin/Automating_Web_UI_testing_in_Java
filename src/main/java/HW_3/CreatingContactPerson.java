@@ -96,3 +96,4 @@ public class CreatingContactPerson {
         driver.findElement(By.xpath("//button[@class='btn btn-success action-button']")).click();
     }
 }
+
